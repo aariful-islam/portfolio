@@ -37,7 +37,7 @@ body{
 
 }
 .upper-banner{
-    background-image: url("/images/top-banner.png");
+    background-image: url("images/top-banner.png");
     background-repeat: no-repeat;
     margin-bottom: 5%;
 
@@ -62,7 +62,7 @@ h1{
     padding-top: 5%;
 }
 .middle-banner{
-    background-image: url(/images/dream-bg.png);
+    background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
 } 
@@ -105,7 +105,7 @@ h1{
 }
 .experience{
     padding-bottom: 10%;
-    background-image:url(/images/exp-bg.png) ;
+    background-image:url(images/exp-bg.png) ;
     background-repeat: no-repeat;
     background-position:left;
     
