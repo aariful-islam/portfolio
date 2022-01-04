@@ -37,7 +37,7 @@ body{
 
 }
 .upper-banner{
-    background-image: url("images/top-banner.png");
+    background-image: url("https://raw.githubusercontent.com/aariful-islam/portfolio/main/images/exp-bg.png");
     background-repeat: no-repeat;
     margin-bottom: 5%;
 
@@ -62,7 +62,7 @@ h1{
     padding-top: 5%;
 }
 .middle-banner{
-    background-image: url(images/dream-bg.png);
+    background-image: url("https://raw.githubusercontent.com/aariful-islam/portfolio/main/images/dream-bg.png");
     background-repeat: no-repeat;
     background-position: right;
 } 
