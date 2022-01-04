@@ -1,0 +1,71 @@
+body{
+    font-family: sans-serif, Poppins;
+    margin: 0%;
+}
+.name-color{
+    color: #FFA500;
+}
+.name{
+    
+    width: 50%;
+    padding-left: 8%;
+    font-size: 20px;
+
+    
+
+    
+}
+.name img{
+    width: 100%;
+}
+
+
+section{
+    display: flex;
+    font-weight: 100;
+}
+
+.hire-me{
+    color: wheat;
+    font-weight: 700;
+    text-decoration: none;
+    padding: 10px 20px;
+    margin: 2px solid black;
+    background-image: linear-gradient(orange, tomato);
+    border-radius: 4px;
+
+
+}
+.upper-banner{
+    background-image: url("/images/top-banner.png");
+    background-repeat: no-repeat;
+    margin-bottom: 5%;
+}
+.dream{
+   margin-top: 100px;
+    
+
+}
+h1{
+    font-size: 50px;
+    
+}
+.nd-image{
+    height: 80%;
+    width: 80%;
+   
+    
+
+}
+.ss{
+    padding-top: 10%;
+}
+/* .middle-banner{
+    background-image: url(/images/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+} */
+.top
+{
+    background-position: right;
+}
