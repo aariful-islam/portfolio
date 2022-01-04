@@ -20,7 +20,7 @@ body{
 }
 
 
-section{
+.flexible-container{
     display: flex;
     font-weight: 100;
 }
@@ -40,6 +40,7 @@ section{
     background-image: url("/images/top-banner.png");
     background-repeat: no-repeat;
     margin-bottom: 5%;
+
 }
 .dream{
    margin-top: 100px;
@@ -58,14 +59,69 @@ h1{
 
 }
 .ss{
-    padding-top: 10%;
+    padding-top: 5%;
 }
-/* .middle-banner{
+.middle-banner{
     background-image: url(/images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
-} */
+} 
 .top
 {
     background-position: right;
 }
+.second-banner-para
+{
+    width: 70%;
+}
+ .full-stack
+{
+    width: 40%;
+    height: 50%;
+    border: 2px solid rgb(66, 17, 17);
+    margin: 100px 100px;
+    padding: 5px;
+    padding-left: 100px;
+    box-shadow: blueviolet;
+}
+.baby-dev{
+    width: 40%;
+    height: 50%;
+    border: 2px solid rgb(131, 83, 83);
+    margin: 100px,100px;
+    padding: 100px;
+    box-shadow: turquoise;
+} 
+.color{
+    color: orangered;
+}
+.experience-part{
+    box-shadow: 10px 10px 40px sandybrown;
+    width: 40%;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding:50px 10px;
+    
+}
+.experience{
+    padding-bottom: 10%;
+    background-image:url(/images/exp-bg.png) ;
+    background-repeat: no-repeat;
+    background-position:left;
+    
+}
+#baby{
+    border-left: 7px solid;
+    border-image: linear-gradient(blue,cyan);
+    border-image-slice: 1;
+}
+#stack{
+    border-left: 7px solid;
+    border-image: linear-gradient(rgb(190, 32, 15),rgb(156, 134, 130));
+    border-image-slice: 1;
+}
+footer{
+    text-align: center;
+}
+
+
